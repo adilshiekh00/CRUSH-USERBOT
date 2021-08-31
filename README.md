@@ -8,7 +8,7 @@
 
 # 𝚃𝙷𝙴 𝙲𝚁𝚄𝚂𝙷𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
-this userbot is made by https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR.come and join our family and rock it. Join for update related info channel and group :- https://t.me/crushBot_Support THANKS FOR VISITING OUR REPO💖
+this userbot is made by https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR . come and join our family and rock it. Join for update related info channel and group :- https://t.me/crushBot_Support THANKS FOR VISITING OUR REPO💖
 [![CRUSHUSERBOT LOGO](https://telegra.ph/file/cab116fdeeeebe3a82ada.png)](https://t.me/crushBot_Support)
 
 
