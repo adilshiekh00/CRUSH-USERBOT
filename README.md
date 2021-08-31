@@ -18,7 +18,7 @@ this userbot is made by https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR . come and join
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/crushBot_Support">☢️JOIN CRUSHBOT SUPPORT☢️</a></h2>
 
 </details>
 
