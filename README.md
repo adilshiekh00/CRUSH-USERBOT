@@ -1,16 +1,15 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-BOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIA-BOT)
-[![HitCount](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
+![GitHub repo size](https://img.shields.io/github/repo-size/adilshiekh00/CRUSH-USERBOT)
+[![HitCount](http://hits.dwyl.com/adilshiekh00/CRUSH-USERBOT.svg)](http://hits.dwyl.com/adilshiekh00/CRUSH-USERBOT)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR)
 
 
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
+# 𝚃𝙷𝙴 𝙲𝚁𝚄𝚂𝙷𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
-
-MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
+this userbot is made by @HARAMI_BACHA_HU_SAMBHAL_KAR.come and join our family and rock it. Join for update related info channel and group :- https://t.me/crushBot_Support THANKS FOR VISITING OUR REPO💖
+[![CRUSHUSERBOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
