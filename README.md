@@ -33,7 +33,8 @@ this userbot is made by https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR . come and join
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href=&template=https%3A%2F%2Fgithub.com%2FMafiaBotOP%2FMafiaBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://heroku.com/deploy?template=https://github.com/adilshiekh00/CRUSH-USERBOT" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adilshiekh00/CRUSH-USERBOT/)
+
 
 </details>
 
