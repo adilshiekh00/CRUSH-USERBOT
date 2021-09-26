@@ -2,7 +2,7 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/adilshiekh00/CRUSH-USERBOT)
 [![HitCount](http://hits.dwyl.com/adilshiekh00/CRUSH-USERBOT.svg)](http://hits.dwyl.com/adilshiekh00/CRUSH-USERBOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://www.instagram.com/_.mr.shiekh._/)
 
 
 
